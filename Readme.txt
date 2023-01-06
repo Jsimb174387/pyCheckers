@@ -1,4 +1,3 @@
-This is all pretty simple, extract Term Project.zip to start. 
 the pygame module is required for the game to run.
 Other than that you simply need to run main after opening the project (I do this by double clicking main.py).
 That is done with pycharm, haven't tried with other things. 
